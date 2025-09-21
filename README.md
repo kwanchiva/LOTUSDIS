@@ -1,6 +1,3 @@
-# LOTUSDIS
-LOTUSDIS: A Thai Far‑Field Meeting Corpus for Robust Conversational ASR
-
 
 # LOTUSDIS: A Thai Far‑Field Meeting Corpus for Robust Conversational ASR
 
