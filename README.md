@@ -46,8 +46,9 @@ We host public artifacts under permissive terms. Use our helper script:
 pip install -r scripts/requirements.txt
 python scripts/download_lotusdis.py --root ./data \
 --subset train,dev,test \
---channels lav123,con123,jbl,bt3m,bt10m \
+--channels lav123,con123,jbl,bt3m,bt10m \ 
 --verify
+```
 
 # LOTUSDIS Results
 
