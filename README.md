@@ -23,7 +23,6 @@ LOTUSDIS is a Thai non‑array meeting corpus designed for far‑field transcrip
 - [Manifests](#manifests)
 - [Baselines](#baselines)
 - [Evaluation](#evaluation)
-- [Ethics & Responsible use](#ethics--responsible-use)
 - [Cite](#cite)
 
   
