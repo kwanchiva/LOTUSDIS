@@ -57,10 +57,10 @@ python scripts/download_lotusdis.py --root ./data \
 - On **far‑field** microphones, fine‑tuning reduces WER **81.6% → 49.5%**.
 - WER increases with **distance** and **overlap** (2‑ and 3‑speaker).
 
-## Overall (Whisper Thai)
+## Overall (Pathumma Whisper)
 | Model | Training | Eval subset | WER (%) |
 |------|----------|-------------|---------|
-| Whisper‑Thai | zero‑shot | all | **64.3** |
-| Whisper‑Thai | fine‑tuned on LOTUSDIS | all | **38.3** |
-| Whisper‑Thai | zero‑shot | far‑field only | **81.6** |
-| Whisper‑Thai | fine‑tuned on LOTUSDIS | far‑field only | **49.5**
+| Pathumma Whisper | zero‑shot | all | **64.3** |
+| Pathumma Whisper | fine‑tuned on LOTUSDIS | all | **38.3** |
+| Pathumma Whisper | zero‑shot | far‑field only | **81.6** |
+| Pathumma Whisper | fine‑tuned on LOTUSDIS | far‑field only | **49.5**
