@@ -38,3 +38,14 @@ LOTUSDIS is a Thai non‑array meeting corpus designed for far‑field transcrip
 ## Device layout & splits
 Nine single‑channel devices (examples): `lav123` (~12–15 cm), `con123` (~0.5 m), `jbl` (~2 m), `bt3m` (3 m), `bt10m` (10 m).
 Official splits live in `data/manifests/`.
+
+## Download
+We host public artifacts under permissive terms. Use our helper script:
+
+
+```bash
+pip install -r scripts/requirements.txt
+python scripts/download_lotusdis.py --root ./data \
+--subset train,dev,test \
+--channels lav123,con123,jbl,bt3m,bt10m \
+--verify
