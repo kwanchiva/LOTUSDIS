@@ -64,3 +64,15 @@ python scripts/download_lotusdis.py --root ./data \
 | Pathumma Whisper | fine‑tuned on LOTUSDIS | all | **38.3** |
 | Pathumma Whisper | zero‑shot | far‑field only | **81.6** |
 | Pathumma Whisper | fine‑tuned on LOTUSDIS | far‑field only | **49.5**
+
+```
+@misc{tipaksorn2025lotusdisthaifarfieldmeeting,
+      title={LOTUSDIS: A Thai far-field meeting corpus for robust conversational ASR}, 
+      author={Pattara Tipaksorn and Sumonmas Thatphithakkul and Vataya Chunwijitra and Kwanchiva Thangthai},
+      year={2025},
+      eprint={2509.18722},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2509.18722}, 
+}
+```
