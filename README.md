@@ -49,6 +49,9 @@ python scripts/download_lotusdis.py --root ./data \
 --channels lav123,con123,jbl,bt3m,bt10m \ 
 --verify
 ```
+### Audio files
+- **Audio-file wav format**  
+  [📥 Download Audio Development Set](https://drive.google.com/file/d/1ut44pgT1tJRd30clNp-IPx6nJiW7co-z/view?usp=sharing)
 
 ### Annotation files
 - **Praat TextGrid annotations**  
