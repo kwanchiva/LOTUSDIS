@@ -50,8 +50,7 @@ python scripts/download_lotusdis.py --root ./data \
 --verify
 ```
 
-[Download TextGrid annotations](https://drive.google.com/file/d/14fMv_X_8sGDPGbnU-hpJ85Mug43AHlgO/view?usp=sharing)
-### Additional annotation files
+### Annotation files
 - **Praat TextGrid annotations**  
   [📥 Download TextGrid (.zip)](https://drive.google.com/file/d/14fMv_X_8sGDPGbnU-hpJ85Mug43AHlgO/view?usp=sharing)
 - **Utterance-level annotation CSV**  
