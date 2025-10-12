@@ -50,7 +50,7 @@ python scripts/download_lotusdis.py --root ./data \
 --verify
 ```
 ### Audio files
-- **Audio-file wav format**  
+- **Utterance-level audio file**  
   [📥 Development Set](https://drive.google.com/file/d/1uxu6QCQAWrP7BYgVWZyBUuWtQNwaZ3xP/view?usp=sharing)
 
 ### Annotation files
