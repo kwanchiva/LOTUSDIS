@@ -51,6 +51,12 @@ python scripts/download_lotusdis.py --root ./data \
 ```
 
 [Download TextGrid annotations](https://drive.google.com/file/d/14fMv_X_8sGDPGbnU-hpJ85Mug43AHlgO/view?usp=sharing)
+### Additional annotation files
+- **Praat TextGrid annotations**  
+  [📥 Download TextGrid (.zip)](https://drive.google.com/file/d/14fMv_X_8sGDPGbnU-hpJ85Mug43AHlgO/view?usp=sharing)
+- **Utterance-level annotation CSV**  
+  [📥 Download annotation CSV](https://drive.google.com/file/d/1ut44pgT1tJRd30clNp-IPx6nJiW7co-z/view?usp=sharing)
+
 
 
 # LOTUSDIS Results
