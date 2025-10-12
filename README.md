@@ -2,7 +2,7 @@
 # LOTUSDIS: A Thai Far‑Field Meeting Corpus for Robust Conversational ASR
 
 
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](LICENSE)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Data Card](https://img.shields.io/badge/Dataset-Card-blue)](docs/DATASET_CARD.md)
 [![Paper (preprint)](https://img.shields.io/badge/Paper-preprint-informational)](https://arxiv.org/pdf/2509.18722)
 
