@@ -37,11 +37,14 @@ Nine single‑channel devices (examples): `lav123` (~12–15 cm), `con123` (~0
 
 ## Download
 ### Audio files
-- **Utterance-level audio file**
+- **Utterance-level audio file (train,dev,test split)**
+
+  [📥 Train Set](https://drive.google.com/file/d/1tsZ-Qlzur80dUmYevt2d71KV5nRFdHGx/view?usp=sharing)
   
   [📥 Dev Set](https://drive.google.com/file/d/1uxu6QCQAWrP7BYgVWZyBUuWtQNwaZ3xP/view?usp=sharing)
 
   [📥 Test Set](https://drive.google.com/file/d/1S7nv9H41sRgYBRA_17bv31hfMqF0vdex/view?usp=sharing)
+
   
 
 
