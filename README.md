@@ -51,10 +51,10 @@ python scripts/download_lotusdis.py --root ./data \
 ```
 ### Audio files
 - **Utterance-level audio file**
-
+  [📥 Dev Set](https://drive.google.com/file/d/1uxu6QCQAWrP7BYgVWZyBUuWtQNwaZ3xP/view?usp=sharing)
   [📥 Test Set](https://drive.google.com/file/d/1S7nv9H41sRgYBRA_17bv31hfMqF0vdex/view?usp=sharing)
   
-  [📥 Development Set](https://drive.google.com/file/d/1uxu6QCQAWrP7BYgVWZyBUuWtQNwaZ3xP/view?usp=sharing)
+
 
 ### Annotation files
 - **Praat TextGrid annotations**  
