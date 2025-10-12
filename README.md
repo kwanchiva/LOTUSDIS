@@ -51,7 +51,7 @@ python scripts/download_lotusdis.py --root ./data \
 ```
 ### Audio files
 - **Audio-file wav format**  
-  [📥 Download Audio Development Set](https://drive.google.com/file/d/1ut44pgT1tJRd30clNp-IPx6nJiW7co-z/view?usp=sharing)
+  [📥 Download Audio Development Set](https://drive.google.com/file/d/1uxu6QCQAWrP7BYgVWZyBUuWtQNwaZ3xP/view?usp=sharing)
 
 ### Annotation files
 - **Praat TextGrid annotations**  
