@@ -33,7 +33,14 @@ LOTUSDIS is a Thai non‑array meeting corpus designed for far‑field transcrip
 
 
 ## Device layout & splits
-Nine single‑channel devices (examples): `lav123` (~12–15 cm), `con123` (~0.5 m), `jbl` (~2 m), `bt3m` (3 m), `bt10m` (10 m).
+Nine single-channel devices (examples): `lav123` (~12–15 cm), `con123` (~0.5 m), `jbl` (~2 m), `bt3m` (3 m), `bt10m` (10 m).  
+
+**Microphone arrangement inside the recording room:**
+
+<p align="center">
+  <img src="assets/device_layout.png" alt="LOTUSDIS device layout diagram" width="700">
+</p>
+
 
 ## Download
 ### Audio files
