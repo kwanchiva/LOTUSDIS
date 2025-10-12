@@ -50,6 +50,9 @@ python scripts/download_lotusdis.py --root ./data \
 --verify
 ```
 
+[![TextGrid](https://img.shields.io/badge/Download-TextGrid-green)](https://drive.google.com/file/d/14fMv_X_8sGDPGbnU-hpJ85Mug43AHlgO/view?usp=sharing)
+
+
 # LOTUSDIS Results
 
 ## Key takeaways
