@@ -37,11 +37,11 @@ Nine single-channel devices (examples): `lav123` (~12–15 cm), `con123` (~0.5 m
 **Microphone arrangement inside the recording room:**
 
 <p align="center">
-  <img src="icassp2026_02.drawio.png" alt="LOTUSDIS device layout diagram" width="400">
+  <img src="icassp2026_02.drawio.png" alt="LOTUSDIS device layout diagram" width="600">
 </p>
 
 <p align="center">
-  <img src="spectrogram.png" alt="Example spectrograms across microphone types" width="400">
+  <img src="spectrogram.png" alt="Example spectrograms across microphone types" width="600">
 </p>
 
 
