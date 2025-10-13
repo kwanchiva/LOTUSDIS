@@ -95,3 +95,9 @@ Nine single-channel devices (examples): `lav123` (~12–15 cm), `con123` (~0.5 m
       url={https://arxiv.org/abs/2509.18722}, 
 }
 ```
+## Human Research Ethics and IRB Approval
+
+All LOTUSDIS data were collected under approved human-research protocols.
+The study received Institutional Review Board (IRB) approval Human Research Ethics Committee  before participant recruitment and recording.
+Every participant provided written informed consent for recording, transcription, and data release under the CC-BY-SA 4.0 license, with all personally identifiable information removed or anonymized prior to publication.
+The dataset contains no sensitive personal data and complies with Thai and international research ethics standards for human-subject audio corpo
