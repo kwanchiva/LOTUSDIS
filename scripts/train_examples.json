@@ -1,0 +1,10 @@
+[
+    {
+        "path": "/path/to/audio_file_1.wav",
+        "sentence": "Your transcription sentence 1"
+    },
+    {
+        "path": "/path/to/audio_file_2.wav",
+        "sentence": "Your transcription sentence 2"
+    }
+]
