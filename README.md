@@ -14,8 +14,7 @@ LOTUSDIS is a Thai non‑array meeting corpus designed for far‑field transcrip
 ---
 ## Introduction
 
-**LOTUSDIS** (LOng-distance Thai Utterances: Distant-speech In realistic Settings) is a **Thai far-field meeting corpus** created to advance research in robust **conversational automatic speech recognition (ASR)**.  
-The dataset comprises **114 hours** of spontaneous, unscripted dialogue recorded in a realistic office environment using **nine independent single-channel microphones** placed at distances from **0.12 m to 10 m**.
+**LOTUSDIS** (LOng-distance Thai Utterances: Distant-speech In realistic Settings) is a **Thai far-field meeting corpus** created to advance research in robust **conversational automatic speech recognition (ASR)**. The dataset comprises **114 hours** of spontaneous, unscripted dialogue recorded in a realistic office environment using **nine independent single-channel microphones** placed at distances from **0.12 m to 10 m**.
 
 🗣️ **Realistic Conversational Speech**  
 Captures natural, overlapping multi-speaker discussions among 86 participants across diverse topics, providing a true reflection of Thai conversational dynamics in real meetings.
