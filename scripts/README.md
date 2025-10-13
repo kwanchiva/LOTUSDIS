@@ -8,6 +8,7 @@ It builds on [nectec/Pathumma-whisper-th-large-v3](https://huggingface.co/nectec
 4. Configure the training settings in [`config/default.json`](config/default.json)
 5. Start training the model: `python train.py`.
 
-After finetuning (or for pre-trained models), you can evaluate the ASR performance on a test set:
+After fine-tuning (or for pre-trained models), you can evaluate the ASR performance on a test set:
 `python eval.py --model_path /path/to/model --test_json /path/to/test.json`
+
 
