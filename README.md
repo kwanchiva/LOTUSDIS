@@ -5,6 +5,7 @@
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Paper (preprint)](https://img.shields.io/badge/Paper-preprint-informational)](https://arxiv.org/pdf/2509.18722)
 [![🤗 Hugging Face](https://img.shields.io/badge/View-on-Hugging%20Face-yellow.svg?logo=huggingface)](https://huggingface.co/datasets/nectec/LOTUSDIS)
+[![🤗 Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-yellow.svg)](https://huggingface.co/datasets/nectec/LOTUSDIS)
 
 LOTUSDIS is a Thai non‑array meeting corpus designed for far‑field transcription in realistic office conditions. It contains **~114 hours** of multi‑channel speech (≈20 hours unique session time) recorded in **15–20‑minute** sessions with **3 speakers** each. **Nine single‑channel devices** capture audio from near‑field to 10 m, preserving device and room effects (HVAC, water cooler, etc.). We provide train/dev/test splits and baseline ASR benchmarks.
 
