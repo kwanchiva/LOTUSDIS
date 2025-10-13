@@ -8,7 +8,7 @@
 
 LOTUSDIS is a Thai non‑array meeting corpus designed for far‑field transcription in realistic office conditions. It contains **~114 hours** of multi‑channel speech (≈20 hours unique session time) recorded in **15–20‑minute** sessions with **3 speakers** each. **Nine single‑channel devices** capture audio from near‑field to 10 m, preserving device and room effects (HVAC, water cooler, etc.). We provide train/dev/test splits and baseline ASR benchmarks.
 
-> **License:** CC‑BY‑SA 4.0 (see [LICENSE](LICENSE)). By using this dataset you agree to the terms in `LICENSE`.
+> **License:** CC‑BY‑SA 4.0. By using this dataset you agree to the terms in `LICENSE`.
 
 
 ---
