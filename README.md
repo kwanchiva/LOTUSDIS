@@ -41,6 +41,11 @@ Nine single-channel devices (examples): `lav123` (~12–15 cm), `con123` (~0.5 m
   <img src="icassp2026_02.drawio.png" alt="LOTUSDIS device layout diagram" width="700">
 </p>
 
+<p align="center">
+  <img src="spectrogram.png" alt="Example spectrograms across microphone types" width="700">
+</p>
+
+
 
 ## Download
 ### Audio files
