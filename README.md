@@ -56,23 +56,6 @@ Nine single-channel devices (examples): `lav123` (~12–15 cm), `con123` (~0.5 m
 </p>
 
 
-## 🎧 Audio Samples
-
-LOTUSDIS examples
-
-### Example 1 — bt3m (3 m distance, far-field)
-<audio controls>
-  <source src="data/sample/bt3m_example.wav?raw=1" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
-
-### Example 2 — con123 (near-field)
-<audio controls>
-  <source src="data/sample/lav123_example.wav?raw=1" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
-
-
 ## Download
 ### Getting the data
 - **Utterance-level audio file (train,dev,test split)**
